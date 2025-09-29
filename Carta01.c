@@ -16,25 +16,25 @@ int main() {
 
   
   
-  printf("Estado: \n");
+  printf("Estado 01: \n");
   scanf("%s", Estado);
 
-  printf("Código: \n");
+  printf("Código 01: \n");
   scanf("%s", &Codigo);
 
-  printf("Cidade: \n");
+  printf("Cidade 01: \n");
   scanf("%s", &Cidade);
 
-  printf("População: \n");
+  printf("População 01: \n");
   scanf("%d", &População);
 
-  printf("Area: \n");
+  printf("Area 01: \n");
   scanf("%f", &Area);
 
-  printf("PIB: \n");
+  printf("PIB 01: \n");
   scanf("%f", &PIB);
 
-  printf("Numero de Pontos Turisticos: \n");
+  printf("Numero de Pontos Turisticos 01: \n");
   scanf("%d", &turisticos);
 
 
